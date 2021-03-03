@@ -1,0 +1,4 @@
+﻿  FaceDetector.cpp
+d:\科研\project\face_detector_ncnn\FaceDetector.h(8): fatal error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
+  main.cpp
+D:\科研\Project\Face_Detector_ncnn\main.cpp(4): fatal error C1083: 无法打开包括文件: “opencv2/core/core.hpp”: No such file or directory
